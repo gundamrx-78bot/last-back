@@ -1,0 +1,319 @@
+{
+  "_note": "제주AX단 행사 일정 페이지 달력의 사본입니다. 달력에는 교육·행사의 접수 시작·마감일이 표시되며, 수업일과 다를 수 있습니다. backend/sync-events.js 로 갱신합니다.",
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-16",
+  "source": "https://jejuaxdan.com/events",
+  "months": [
+    "2026-11",
+    "2026-12",
+    "2027-01"
+  ],
+  "items": [
+    {
+      "date": "2026-11-01",
+      "kind": "접수마감",
+      "title": "서귀포시 / 11월 시민정보화교육 수강생 모집 안내 (~11.1.)",
+      "venue": "서귀포시청 1청사 별관 2층 전산교육실",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/bdb8e2cf-c926-4987-ad64-c7a386b0c005"
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "접수마감",
+      "title": "[제주AX단] 최애가 내 비서가 됐다 | 메일 관리 AI 비서 만들기 무료 실습 (11/3)",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/2e9456e0-de4c-422a-9b00-961e5bb7a447"
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "접수마감",
+      "title": "[11/3 오후·한라대] 최애가 내 비서가 됐다 | 메일 관리 AI 비서 만들기 무료 3시간 실습",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/62e80d07-b379-4389-a978-dd9fff50a894"
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "접수마감",
+      "title": "[제주AX단×소식연구소] 최애가 내 비서가 됐다 — 내 메일을 관리하는 AI 비서 만들기 · 무료 실습 (~11/2)",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/de9f0d54-6906-48d6-b4f5-f5f1d90ef974"
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "접수시작",
+      "title": "<콘텐츠 인문학 특강> 생성형 AI 시대, 꼭 알아야 할 저작권과 법률 이야기",
+      "venue": "제주콘텐츠코리아랩 머들코지",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/76c366d6-11b3-40ed-864a-b971e2721a03"
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "기타",
+      "title": "[무료·6명] 최애가 내 비서가 됐다 — 내 메일을 관리하는 AI 비서 만들기",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": "14:00~17:00",
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/9fd4a7aa-bce1-44f6-9911-33ae3ad12f15"
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "수업",
+      "title": "최애가 내 비서가 됐다 — 내 메일을 관리하는 AI 비서 만들기",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": "14:00~17:00",
+      "source": "course",
+      "link": "https://jejuaxdan.com/courses/jac-2026-11-choeae-1103"
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "접수시작",
+      "title": "<AI VFX 활용 단편 영화 제작> 교육 수강생 모집",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2, 도내 촬영지 등",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/b881fe3b-4bc7-4273-8415-a712c051c208"
+    },
+    {
+      "date": "2026-11-03",
+      "kind": "접수시작",
+      "title": "[제주콘텐츠진흥원] <AI VFX 활용 단편 영화 제작> 수강생 모집(~11/16)",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2(제주특별자치도 제주시 신산로 82, 지하), 도내 촬영지 등",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/f3ed74df-d275-46a3-bb67-4694542cb4ab"
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "접수마감",
+      "title": "제주지역창업페스티벌×스타트업위크 JOIN 2026",
+      "venue": "쉐라톤 제주 호텔 2층 메인홀",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/9546dff5-e341-42a4-a131-96a7a4e277d9"
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "접수마감",
+      "title": "[제주산학융합원] 시계열 데이터 분석 모델 활용 실습 교육 (~11/4)",
+      "venue": "제주지식산업센터 4층 ETRI 강의실",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/b1f6eb77-e330-4184-90ed-d9b6e22be405"
+    },
+    {
+      "date": "2026-11-04",
+      "kind": "접수마감",
+      "title": "제주 AI 캠퍼스 AX 풀스택 과정",
+      "venue": "제주테크노파크 미래산업센터 3층 · 제주시 첨단로 241",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/cef48371-af9b-47f6-935f-c4129e46f13b"
+    },
+    {
+      "date": "2026-11-05",
+      "kind": "접수마감",
+      "title": "[제주한라대학교 첨단분야혁신융합대학사업단] AIoTㆍ피지컬AI, 제주 산업의 미래를 만나다!「2026년 추계 미래문화기술포럼」참가자 모집 (~11/5)",
+      "venue": "제주한라대학교 한라컨벤션센터 컨벤션 A홀",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/46513380-8dc7-46c3-8f7f-b3ab8f570e3b"
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "접수시작",
+      "title": "[제주콘텐츠진흥원] <AI 디자인 레벨업> 수강생 모집(~11.19.)",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2(제주특별자치도 제주시 신산로 82, 지하)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/8b0d5e23-5ad2-4d34-ad4a-386b59a51be7"
+    },
+    {
+      "date": "2026-11-10",
+      "kind": "접수시작",
+      "title": "AI 디자인 레벨업 수강생 모집",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/b9bef6f2-5911-4640-a49a-63958787dfa8"
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "접수마감",
+      "title": "[11/12 오전·한라대] 쌓아만 둔 메모, 다시 꺼내 쓰기 | Claude Code·Codex 무료 3시간 실습",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/122da1ba-f78e-4453-94d6-b7e66147e91b"
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "접수마감",
+      "title": "[제주경제통상진흥원] 디자인 아카데미 12기 [챗GPT 이미지 기능을 활용한 SNS 콘텐츠 디자인& 이미지 자동 생성하기] 교육생 모집 공고(~11.11까지)",
+      "venue": "제주경제통상진흥원 1층 소상공인경영지원센터 내 강의실 (제주시 연삼로 473)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/70e04131-4096-4286-89f5-424663595d93"
+    },
+    {
+      "date": "2026-11-11",
+      "kind": "접수마감",
+      "title": "[제주AX단] 쌓아만 둔 메모, 다시 꺼내 쓰기 · 무료 3시간 실습 (~11/11)",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/7ccdede7-7f90-47e0-b52f-576856e6cf4a"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "기타",
+      "title": "[무료] 쌓아만 둔 메모, 다시 꺼내 쓰기 (평일 오전반)",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": "10:00~13:00",
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/396a8b6c-155e-408f-8b74-560fcb6d782d"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "수업",
+      "title": "쌓아만 둔 메모, 다시 꺼내 쓰기 (평일 오전반)",
+      "venue": "제주한라대학교 K-하이테크 플랫폼 세미나실 (지관 C동 1층)",
+      "time": "10:00~13:00",
+      "source": "course",
+      "link": "https://jejuaxdan.com/courses/jac-2026-11-second-brain-1112"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "접수마감",
+      "title": "[제주콘텐츠진흥원] 인문학 특강 '생성형 AI 시대, 꼭 알아야 할 저작권과 법률 이야기'(~11.12./선착순 접수)",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 머들코지(제주시 신산로 82 지하 1층)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/8b4547a7-5d2b-4214-bab8-52304951fb00"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "접수마감",
+      "title": "<콘텐츠 인문학 특강> 생성형 AI 시대, 꼭 알아야 할 저작권과 법률 이야기",
+      "venue": "제주콘텐츠코리아랩 머들코지",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/d9024f02-adbc-4a07-9f3a-4aa583bba0df"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "접수시작",
+      "title": "2026 자주마당 행사 개최 안내",
+      "venue": "서귀포시 자기주도학습지원센터 내·외부",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/02539e78-5016-4383-b6aa-c3f847a2afa3"
+    },
+    {
+      "date": "2026-11-12",
+      "kind": "접수시작",
+      "title": "(14:00~14:40) 나는야 AI 로봇 조종사(AI와 로봇의 만남)",
+      "venue": "제주특별자치도 서귀포시 동홍중앙로7번길 19 (동홍동) 서귀포시 자기주도학습지원센터",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/5b32d781-ea2c-479b-8928-b6d4fdbe4fba"
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "접수마감",
+      "title": "<AI VFX 활용 단편 영화 제작> 교육 수강생 모집",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2, 도내 촬영지 등",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/995390c4-1f66-4a98-b5d2-cba87eb1a762"
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "접수마감",
+      "title": "[제주콘텐츠진흥원] <AI VFX 활용 단편 영화 제작> 수강생 모집(~11/16)",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2(제주특별자치도 제주시 신산로 82, 지하), 도내 촬영지 등",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/c9118a6c-b3d6-4b32-a981-729c025afcdb"
+    },
+    {
+      "date": "2026-11-16",
+      "kind": "접수시작",
+      "title": "AI를 활용한 스마트 취업전략(입사서류준비)",
+      "venue": "제주고용복지플러스센터 5층 교육장(대면)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/a144b28c-b360-4be1-bdb4-28b1128c7b0e"
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "접수마감",
+      "title": "AI 디자인 레벨업 수강생 모집",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/47e6b9f3-5a69-4f55-8bd7-8f3333807dfe"
+    },
+    {
+      "date": "2026-11-19",
+      "kind": "접수마감",
+      "title": "[제주콘텐츠진흥원] <AI 디자인 레벨업> 수강생 모집(~11.19.)",
+      "venue": "제주콘텐츠진흥원 제주콘텐츠코리아랩 지하 교육실 2(제주특별자치도 제주시 신산로 82, 지하)",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/6900a8a1-2e57-43db-969a-6740b689b4c1"
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "접수마감",
+      "title": "(14:00~14:40) 나는야 AI 로봇 조종사(AI와 로봇의 만남)",
+      "venue": "제주특별자치도 서귀포시 동홍중앙로7번길 19 (동홍동) 서귀포시 자기주도학습지원센터",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/17590298-691a-4236-806d-eb233a3b3181"
+    },
+    {
+      "date": "2026-11-20",
+      "kind": "접수마감",
+      "title": "2026 자주마당 행사 개최 안내",
+      "venue": "서귀포시 자기주도학습지원센터 내·외부",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/5ff03746-f960-4252-ac20-531384eb8653"
+    },
+    {
+      "date": "2026-11-27",
+      "kind": "접수마감",
+      "title": "카카오 클래스: AI 비즈니스 실전 과정",
+      "venue": "온라인 VOD",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/d675ed2b-10e7-4b90-b049-47aa2f36e106"
+    },
+    {
+      "date": "2026-12-31",
+      "kind": "접수마감",
+      "title": "중소기업 인재키움 AI 교육 (최대 95% 환급)",
+      "venue": "제주 지역 기업 사업장, 가까운 교육장 또는 위니브 사무실",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/47a4da2a-d0be-4141-a6c9-140fcc557366"
+    },
+    {
+      "date": "2026-12-31",
+      "kind": "접수마감",
+      "title": "AID 30+ 집중캠프",
+      "venue": "제주대학교 또는 기업·기관 출강(협의) · 온라인 기초 학습 병행",
+      "time": null,
+      "source": "event",
+      "link": "https://jejuaxdan.com/events/bd191396-a9a4-48f2-922c-5ecf94d08b25"
+    }
+  ]
+}
